@@ -1,4 +1,7 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lucas Borges
+🇧🇷 &nbsp; I'm from Rio de Janeiro / Brazil <br>
+<h3>My first "hello world" was using <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code></h3>
+<h3>I'm currently learning <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code> and  <code><img width="10%" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg></code></h3>
 
 <!--
 **LucasDLAB/LucasDLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
