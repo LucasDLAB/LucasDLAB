@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lucas Borges
+### Hello, I'm Lucas Borges
 <p>🇧🇷 &nbsp; I'm from Rio de Janeiro / Brazil</p>
 <p>My first "Hello, World!" was using <code><img width="9%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code></p>
 <p>I'm currently learning <code><img width="9%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code> and  <code><img width="9%" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg></code></p>
