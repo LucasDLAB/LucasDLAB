@@ -1,7 +1,23 @@
 ### Hello, I'm Lucas Borges
-<p>🇧🇷 &nbsp; I'm from Rio de Janeiro / Brazil</p>
+<p>🇧🇷 &nbsp; Based in Rio de Janeiro / Brazil</p>
 <p>My first "Hello, World!" was using <code><img width="9%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code></p>
-<p>I'm currently learning <code><img width="9%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code> and  <code><img width="9%" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg></code></p>
+
+
+<h3> 🧰 Skills</h3>
+<ul>
+  <li>HTML/css</li>
+  <li>Ruby on rails</li>
+  <li>Sidekiq</li>
+  <li>Docker</li>
+  <li>Git</li>
+</ul>
+
+<h3>📖 Learning/Improving</h3>
+<ul> 
+  <li>SQL</li>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+</ul>
 
 <!--
 **LucasDLAB/LucasDLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
